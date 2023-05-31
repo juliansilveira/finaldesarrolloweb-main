@@ -122,7 +122,7 @@ fetch('../jugadores.json')
           filaSeleccionado.appendChild(nombreSeleccionado);
           filaSeleccionado.appendChild(apellidoSeleccionado);
           filaSeleccionado.appendChild(btnEliminarSeleccionado);
-          //todo quedamos en que logramos cargar bien el local storage y enviar al otro cuadro de seleccionados
+          //todo quedamos en que logramos cargar bien el local storage y enviar al otro cuadro de seleccionados 
           // Agregar la fila a la tabla de jugadores seleccionados
           filaSeleccionados.appendChild(filaSeleccionado);
         }
